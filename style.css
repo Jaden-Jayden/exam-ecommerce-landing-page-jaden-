@@ -1,0 +1,173 @@
+body {
+	display: flex;
+	margin: auto;
+	align-items: center;
+	width: max-content;
+	height: max-content;
+}
+main {
+	display: flex;
+	align-items: center;
+	margin: auto;
+	width: 1015px;
+	height: 565px;
+	font-family: "Kumbh Sans";
+	font-size: 16px;
+	padding-top: 100px;
+}
+.nothing {
+	display: flex;
+	flex-direction: column;
+	width: 125px;
+	height: 565px;
+}
+.right {
+	display: flex;
+	flex-direction: column;
+	width: 445px;
+	height: 565px;
+
+	margin-left: auto;
+}
+.rt {
+	display: flex;
+	align-items: center;
+	align-items: center;
+}
+.big {
+	display: flex;
+	width: 445px;
+	height: 445px;
+	border-radius: 15px;
+}
+.mosses {
+	background-color: white;
+}
+.rb {
+	display: flex;
+}
+.small {
+	display: flex;
+	width: 88px;
+	height: 88px;
+	border-radius: 10px;
+	margin-left: auto;
+}
+
+.left {
+	display: flex;
+	flex-direction: column;
+	width: 445px;
+	height: 426px;
+
+	margin-right: auto;
+}
+.sc {
+	color: #69707d;
+	font-family: "Kumbh Sans";
+	font-size: 13px;
+}
+h1 {
+	display: flex;
+	font-family: "Kumbh Sans";
+	font-size: 44px;
+	width: 445px;
+	height: 96px;
+}
+.mtext {
+	color: #69707d;
+	width: 445px;
+	height: 78px;
+	line-height: 8px;
+	font-family: "Kumbh Sans";
+	font-size: 16px;
+}
+.pricee {
+	display: flex;
+	width: 173px;
+	height: 68px;
+	line-height: 50px;
+}
+.price {
+	display: flex;
+	align-items: center;
+	gap: 10px;
+	height: 35px;
+	font-family: "Kumbh Sans";
+	font-size: 16px;
+}
+.euro{
+    display: flex;
+    width: 99px;
+    height: 35px;
+    color: #1D2026;
+}
+h3 {
+	display: flex;
+	width: 51px;
+    height: 27px;
+	align-items: center;
+    justify-content: center;
+	color: white;
+	font-family: "Kumbh Sans";
+	font-size: 16px;
+	background-color: #1d2026;
+	border: #1d2026 2px solid;
+	border-radius: 6px;
+	line-height: normal;
+}
+.pp {
+	display: flex;
+	height: 26px;
+	color: #69707d;
+	font-family: "Kumbh Sans";
+	font-size: 16px;
+	margin-right: 200px;
+	line-height: 10px;
+	text-decoration: line-through;
+}
+.lbb {
+	display: flex;
+
+	width: 445px;
+	height: 56px;
+	background-color: #f6f8fd;
+}
+.lb {
+	display: flex;
+	width: 157px;
+	height: 56px;
+	align-items: center;
+	gap: 25px;
+	background-color: #f6f8fd;
+	border-radius: 10px;
+}
+.plus {
+	display: flex;
+	width: 13.714285850524902px;
+	height: 13.714285850524902px;
+	color: #ff7e1b;
+    font-size: x-large;
+    align-items: center;
+    justify-content: center;
+}
+.line {
+	display: flex;
+	width: 12px;
+	height: 3.3321428298950195px;
+}
+.cart {
+	display: flex;
+	background-color: #ff7e1b;
+	width: 272px;
+	justify-content: center;
+	color: #1d2026;
+	align-items: center;
+	gap: 10px;
+	border-radius: 10px;
+}
+.cartt {
+	display: flex;
+	width: 17.456958770751953px;
+	height: 16px;
+}
